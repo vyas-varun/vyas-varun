@@ -18,7 +18,7 @@ Currently, I am working on the following -
 
 I am learning following nowadays - 
 
-- 
+- data
 - 
 
 <br>

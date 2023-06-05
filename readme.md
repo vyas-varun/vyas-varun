@@ -16,11 +16,6 @@ Currently, I am working on the following -
 - Machine Learning Specialization by DeepLearning.ai.
 <br>
 
-I am learning following nowadays - 
-
-- data
-- 
-
 <br>
 
 <p align='center'>Reach out to me on -</align>
